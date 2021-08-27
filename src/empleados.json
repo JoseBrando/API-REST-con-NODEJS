@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "nombre": "Luis Manuel",
+        "apellidoPaterno": "García",
+        "apellidoMaterno": "Montes",
+        "fechaNacimiento": "1980-12-11",
+        "rfc":"GAMM801211AS2"
+    },
+    {
+        "id": "2",
+        "nombre": "Marco",
+        "apellidoPaterno": "Juárez",
+        "apellidoMaterno": "García",
+        "fechaNacimiento": "1999-02-21",
+        "rfc":"JUGM990221OP1"
+    },
+    {
+        "id": "3",
+        "nombre": "Itzel",
+        "apellidoPaterno": "Cabañas",
+        "apellidoMaterno": "Diego",
+        "fechaNacimiento": "1994-09-15",
+        "rfc":"CADI940415PT1"
+    },
+    {
+        "id": "4",
+        "nombre": "Pedro",
+        "apellidoPaterno": "Martínez",
+        "apellidoMaterno": "Olea",
+        "fechaNacimiento": "1992-10-02",
+        "rfc":"MAOP921002JO1"
+    },
+    {
+        "id": "5",
+        "nombre": "Mario",
+        "apellidoPaterno": "Juárez",
+        "apellidoMaterno": "Benítez",
+        "fechaNacimiento": "1978-01-29",
+        "rfc":"JUBM780129TE1"
+    }
+]

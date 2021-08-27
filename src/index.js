@@ -12,10 +12,13 @@ app.use(express.urlencoded({extended: false}));
 app.use(express.json()); // Solo se procesará JSON
 
 // routes
-app.use( "/api/heroes", require("./routes/heroes") );
+app.use( "/api/empleados", require("./routes/empleados") );
 app.use( "/api/users", require("./routes/users") );
 
 // starting the server
 app.listen(app.get("port"), () => {
     console.log(`Server on port ${3000}`);
 });
+
+
+// http://localhost:3000/api/heroes
