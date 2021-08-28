@@ -38,5 +38,45 @@
         "apellidoMaterno": "Benítez",
         "fechaNacimiento": "1978-01-29",
         "rfc":"JUBM780129TE1"
+    },
+    {
+        "id": "6",
+        "nombre": "Cristobal",
+        "apellidoPaterno": "Cortés",
+        "apellidoMaterno": "Apreza",
+        "fechaNacimiento": "2002-05-20",
+        "rfc": "COAC020520WE1"
+    },
+    {
+        "id": "7",
+        "nombre": "Isaac",
+        "apellidoPaterno": "Juárez",
+        "apellidoMaterno": "Patiño",
+        "fechaNacimiento": "1999-01-17",
+        "rfc":"JUPI990117PO1"
+    },
+    {
+        "id": "8",
+        "nombre": "José Alberto",
+        "apellidoPaterno": "Serrano",
+        "apellidoMaterno": "Patiño",
+        "fechaNacimiento": "1994-01-10",
+        "rfc":"SEPJ940110PL1"
+    },
+    {
+        "id": "9",
+        "nombre": "Diana",
+        "apellidoPaterno": "Cortés",
+        "apellidoMaterno": "García",
+        "fechaNacimiento": "1988-12-05",
+        "rfc": "COGD881205PI1"
+    },
+    {
+        "id": "10",
+        "nombre": "Luisa",
+        "apellidoPaterno": "Martínez",
+        "apellidoMaterno": "Loeza",
+        "fechaNacimiento": "1998-02-19",
+        "rfc":"MALL980219PU1"
     }
 ]

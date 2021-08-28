@@ -25,8 +25,6 @@ router.post("/", (req, res) => {
 router.put("/:id", (req, res) => {
     const { id } = req.params;
     const { nombre, apellidoPaterno, apellidoMaterno, rfc  } = req.body;
-    console.log(id);
-    console.log(nombre);
     
     if(nombre && apellidoPaterno && apellidoMaterno && rfc) {
         _.each(empleados, (empleado, i) => {
@@ -46,7 +44,6 @@ router.put("/:id", (req, res) => {
 
 router.delete("/:id", (req, res) => {
     const { id } = req.params;
-    console.log(id);
 
     _.each(empleados, (empleado, i) => {
         if(empleado.id == id) {

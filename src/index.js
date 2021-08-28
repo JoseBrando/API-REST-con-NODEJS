@@ -13,7 +13,7 @@ app.use(express.json()); // Solo se procesará JSON
 
 // routes
 app.use( "/api/empleados", require("./routes/empleados") );
-app.use( "/api/users", require("./routes/users") );
+app.use( "/api/paises", require("./routes/paises") );
 
 // starting the server
 app.listen(app.get("port"), () => {
