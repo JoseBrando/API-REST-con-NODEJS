@@ -1,7 +1,9 @@
 const { Router } = require("express");
 const router = Router();
-const empleados = require('../empleados.json');
+const empleados = require('../database/empleados.json');
 const _ = require("underscore");
+
+
 
 router.get("/", (req, res) => {
     res.json( empleados );
